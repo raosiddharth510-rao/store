@@ -1,6 +1,8 @@
 streamlit
 pandas
 numpy
+matplotlib
+seaborn
 Pillow
-pyzbar
+qrcode
 python-dateutil
