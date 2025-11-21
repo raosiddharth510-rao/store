@@ -45,7 +45,7 @@ st.markdown(dark_css, unsafe_allow_html=True)
 # Config
 # -------------------------
 ADMIN_USERS = ["siddharth", "priyanshu"]
-ADMIN_PASS = "84331800"
+ADMIN_PASS = "1802254"
 
 DATA_FOLDER = "data"
 PRODUCT_FILE = f"{DATA_FOLDER}/products.csv"
@@ -560,4 +560,5 @@ def main():
             qr_scanner_view(admin_mode=False)
 
 if __name__ == "__main__":
+
     main()
